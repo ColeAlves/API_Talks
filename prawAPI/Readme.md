@@ -1,5 +1,6 @@
 This was coded and ran in Jupyter notebook, but there is a python file for those that don't have Jupyter notebook.
-The code will error out without the following things downloaded. It will also error out since I removed the secrets and my account information.
+The code will error out without the following things downloaded. 
+It will also error out since I removed the secrets and my account information.
 Need to create an account for Reddit and Imgur and install the following to work correctly.
 
 Installs
